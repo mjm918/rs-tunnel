@@ -1,0 +1,10 @@
+#[server]
+#port = 8082
+#secret = "HelloWorld!"
+
+[client]
+local = "localhost"
+local_port = 8081
+server = "easyecosystem.com"
+port = 8082
+secret = "HelloWorld!"
